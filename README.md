@@ -1,7 +1,7 @@
 # Die-Program
 This program creates Die objects and rolls them for a random face value.
 
-# This program is designed to create Die objects based on a Die class using the number of sides as a parameter for the object. The program includes the main driver code in the CS232Lab5.java class and the Die.java class to handle the Die objects.
+# This program is designed to create Die objects based in a Die class using the number of sides as a parameter for the object. The program includes the main driver code in the CS232Lab5.java class and the Die.java class to handle the Die objects.
 
 # The CS232Lab5.java class starts out by creating 5 new Die objects named Die1, Die2, Die3, Die4, and Die5.
 
